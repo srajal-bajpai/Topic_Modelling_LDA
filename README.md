@@ -5,7 +5,7 @@ The Topic_LDA.ipynb notebook is designed to perform topic modeling using Latent 
 Prerequisites
 Before running this notebook, ensure you have the following installed:
 
-Python 3.x
+Python 3
 Jupyter Notebook
 The following Python libraries:
 pandas
